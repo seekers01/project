@@ -1,2 +1,4 @@
 #FIX.TXT
 This is our bug fix.
+
+This is the latest bug fix to be put by stash command.
