@@ -3,4 +3,4 @@ Learn to make commits. (done)
 Learn about ignoring files. (done)
 Learn about branches(done)
 Learn about orphan branches(done)
-Learn about showing Git info in your command prompt
+Learn about showing Git info in your command prompt(done)
